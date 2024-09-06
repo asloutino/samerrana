@@ -1,10 +1,10 @@
 var images = [
     'url(./bg/image1.jpg)',    
     'url(./bg/image2.jpg)',    
-    'url(./bg/image3.jpg)',    
-    'url(./bg/image4.jpg)',    
-    'url(./bg/image5.jpg)',    
-    'url(./bg/image6.jpg)'  
+    'url(./bg/image1.jpg)',    
+    'url(./bg/image2.jpg)',    
+    'url(./bg/image1.jpg)',    
+    'url(./bg/image2.jpg)'  
 ];
 
 var LeafScene = function(el) {
